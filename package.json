@@ -1,15 +1,9 @@
-{
-  "name": "function",
-  "version": "1.0.0",
-  "description": "appwrite function for payment",
-  "license": "ISC",
-  "author": "",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "razorpay": "^2.9.6"
-  }
-}
+
+   {
+     "name": "create-order-function",
+     "version": "1.0.0",
+     "main": "index.js",
+     "dependencies": {
+       "razorpay": "^2.9.6"
+     }
+   }
